@@ -8,3 +8,4 @@ Conflict 2
 Conflict 3
 Diverging 1
 Diverging 2
+Diverging 3
