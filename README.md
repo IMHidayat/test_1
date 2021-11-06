@@ -4,3 +4,4 @@ This is the new changes
 This is another changes came from origin
 Conflict 1
 Conflict 2
+Conflict 3
