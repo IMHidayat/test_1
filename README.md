@@ -55,6 +55,12 @@ Git clone
 Is to clone or get the exact file in the remote repository into your local repository
 (git clone git_url)
 
+THIS IS MY_FEATURE CODE
+THIS IS MY_FEATURE CODE
+THIS IS MY_FEATURE CODE
+THIS IS MY_FEATURE CODE
+THIS IS MY_FEATURE CODE
+
 THIS IS SOMEONE'S CODE
 THIS IS SOMEONE'S CODE
 THIS IS SOMEONE'S CODE
