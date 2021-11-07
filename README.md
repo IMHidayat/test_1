@@ -8,6 +8,18 @@ Git Add
 Is used to add local repository into staging area where you can review your work before commiting
 (git add ., git add file_name)
 
+Git restore
+Is used to restore a file at a particular commit or undoing a working directory and applying the current change in staging area
+(git restore --source=commit file_name, git restore .)
+
+Git reset
+Is used to undo a commit and change the state and file of current working directory to a particular commit
+(git reset --hard commit)
+
+Git revert
+Is used to revert changes from a particular commit and create a new commit that doesn't have change of the selected commit
+(git revert commit)
+
 Git init
 Is used to create a git repository inside a folder
 (git init)
