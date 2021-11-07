@@ -1,11 +1,9 @@
 # test_1
 
-This is just a test you can delete me after it's done
-This is the new changes
-This is another changes came from origin
-Conflict 1
-Conflict 2
-Conflict 3
-Diverging 1
-Diverging 2
-Diverging 3
+git Commit
+Is used to commit and record a snapshot/history at that point in time
+(git commit -m "messages", git commit -am "messages", git commit)
+
+Git Add
+Is used to add local repository into staging area where you can review your work before commiting
+(git add ., git add file_name)
