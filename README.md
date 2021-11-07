@@ -8,6 +8,16 @@ Git Add
 Is used to add local repository into staging area where you can review your work before commiting
 (git add ., git add file_name)
 
+Git merge
+is used to merge one branch into another
+//Fast forward = is to merge the main branch with another by just putting the master head into the branch that you're merging with
+//Three way Merge = I don't know tbh
+(git merge branch_name, git merge --abort)
+
+Git rebase
+used for moving your branch's base into the latest main branch
+(git rebase branch-name, git rebase -i branch_name, git rebase --continue)
+
 Git restore
 Is used to restore a file at a particular commit or undoing a working directory and applying the current change in staging area
 (git restore --source=commit file_name, git restore .)
