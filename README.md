@@ -5,3 +5,7 @@ This is another changes came from origin
 Conflict 1
 Conflict 2
 Conflict 3
+
+SOMEONE ADDED SOME CODE HERE
+SOMEONE ADDED SOME CODE HERE
+SOMEONE ADDED SOME CODE HERE
